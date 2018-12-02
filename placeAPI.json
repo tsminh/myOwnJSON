@@ -3,10 +3,11 @@
     "name": "Tạ Tuyết Ngân - Ăn Vặt & Trà Sữa",
     "img": "https://images.foody.vn/res/g9/88316/prof/s576x330/foody-mobile-7z5gppcs-jpg-720-635948586117897873.jpg",
     "address": "308/10/8 Nguyễn Tri Phương"
-    "location": {
-		"latitude":10.763141,
-		"longitude":106.669191
-    }
+    "location":
+	  {
+	  "latitude":10.763141,
+	  "longitude":106.669191
+  	}
   }
 
 ]
