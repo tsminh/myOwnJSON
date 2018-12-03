@@ -4,7 +4,7 @@
  "name": "Tạ Tuyết Ngân - Ăn Vặt & Trà Sữa",
  "img": "https://images.foody.vn/res/g9/88316/prof/s576x330/foody-mobile-7z5gppcs-jpg-720-635948586117897873.jpg",
  "address": "308/10/8 Nguyễn Tri Phương, Quận , TP.HCM",
- "type": "Ăn vặt",
+ "type": "Ăn vặt/Vỉa hè",
  "location":
  {
   "lat":10.763141,
@@ -242,6 +242,292 @@
   "lng":106.6784001
  }
  }
+ {
+ "name": "L'angfarm Buffet - Trần Hưng Đạo",
+ "img": "https://images.foody.vn/res/g22/215893/prof/s640x400/2018123152530-langfarm-buffet-tran-hung-dao-copy.jpg",
+ "address": "771 - 773 - 775 Trần Hưng Đạo, P. 1, Quận 5, TP. HCM",
+ "type": "Buffet",
+ "location":
+ {
+  "lat":10.7552823,
+  "lng":106.6818831
+ }
+ },
+ {
+ "name": "Mama BBQ - Buffet Nướng & Lẩu",
+ "img": "https://images.foody.vn/res/g74/732238/prof/s576x330/foody-upload-api-foody-mobile-undefined-qmama-bbq--180416105937.jpg",
+ "address": "635A Nguyễn Trãi, Quận 5, TP. HCM",
+ "type": "Buffet",
+ "location":
+ {
+  "lat":10.7632348,
+  "lng":106.6867868
+ }
+ },
+ {
+ "name": "Hoàng Yến Buffet - The Garden Mall",
+ "img": "https://images.foody.vn/res/g75/744407/prof/s576x330/foody-upload-api-foody-mobile-hoang-yen-buffet-jpg-180524173547.jpg",
+ "address": "Zone C, Tầng 3 The Garden Mall, 190 Hồng Bàng, P. 12, Quận 5, TP. HCM",
+ "type": "Buffet",
+ "location":
+ {
+  "lat":10.7544186,
+  "lng":106.6564656
+ }
+ },
+ {
+ "name": "Buffet Windsor - Cafe Central An Dong - Windsor Plaza",
+ "img": "https://media.foody.vn/res/g1/8/prof/s/foody-mobile-dpxxrdae-jpg-176-635851879399811855.jpg",
+ "address": "Windsor Plaza, 18 An Dương Vương, Quận 5, TP. HCM",
+ "type": "Buffet",
+ "location":
+ {
+  "lat":10.7579071,
+  "lng":106.6735312
+ }
+ },
+ {
+ "name": "Thiên Du & Sky Sushi - Trần Hưng Đạo",
+ "img": "https://images.foody.vn/res/g3/26626/prof/s576x330/foody-mobile-sky-sushi-tp-hcm.jpg",
+ "address": "1089A Trần Hưng Đạo, P. 5, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7531762,
+  "lng":106.674002
+ }
+ },
+ {
+ "name": "Dì Lan - Cacao Dừa",
+ "img": "https://images.foody.vn/res/g18/172494/prof/s640x400/foody-mobile-1v6u0qy8-jpg-963-635794044096061380.jpg",
+ "address": "329 Hùng Vương, P. 9, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7571524,
+  "lng":106.6686813
+ }
+ },
+ {
+ "name": "Bánh Tráng Nướng Đà Lạt NTP",
+ "img": "https://images.foody.vn/res/g8/73400/prof/s640x400/foody-mobile-6-jpg-651-636268937776123177.jpg",
+ "address": "285 Hùng Vương, P 9, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7581508,
+  "lng":106.6705809
+ }
+ },
+ {
+ "name": "Chè Hà Ký - Châu Văn Liêm",
+ "img": "https://images.foody.vn/res/g1/4371/prof/s576x330/foody-mobile-che-ha-ky-jpg-382-636124203638629780.jpg",
+ "address": "138 Châu Văn Liêm, P. 11, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7541275,
+  "lng":106.6585196
+ }
+ },
+ {
+ "name": "Lê Gia - Hongkong Street Food",
+ "img": "https://images.foody.vn/res/g19/187227/prof/s576x330/foody-mobile-12-jpg-293-636156625471452716.jpg",
+ "address": "623 - 625 Nguyễn Trãi, P.11, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7536722,
+  "lng":106.6658551
+ }
+ },
+ {
+ "name": "Lu's Corner - Hong Kong Street Food",
+ "img": "https://images.foody.vn/res/g28/277507/prof/s640x400/foody-mobile-lu-jpg-538-636106778146455000.jpg",
+ "address": "319 Hùng Vương, P. 9, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7581023,
+  "lng":106.6702992
+ }
+ },
+ {
+ "name": "Cacao Dừa 136",
+ "img": "https://images.foody.vn/res/g13/125061/prof/s640x400/foody-upload-api-foody-mobile-dff-jpg-180521181402.jpg",
+ "address": "136/1 Nguyễn Tri Phương, P. 9, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7581352,
+  "lng":106.6694218
+ }
+ },
+ {
+ "name": "Hải Thanh - Há Cảo & Xíu Mại",
+ "img": "https://images.foody.vn/res/g7/69842/prof/s576x330/foody-mobile-hai-thanh-jpg-599-636059046602297803.jpg",
+ "address": "167 Bùi Hữu Nghĩa, P. 7, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7550643,
+  "lng":106.6743462
+ }
+ },
+ {
+ "name": "Quán Ù Pa - Kem Cá Phô Mai - Nguyễn Án",
+ "img": "https://images.foody.vn/res/g25/245629/prof/s576x330/foody-mobile-c2-jpg-497-636015211714100994.jpg",
+ "address": "9A Nguyễn Án, P. 11, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7525634,
+  "lng":106.6604818
+ }
+ },
+ {
+ "name": "Takoyaki - An Dương Vương",
+ "img": "https://images.foody.vn/res/g13/128474/prof/s576x330/foody-mobile-14-jpg-823-635635721425782898.jpg",
+ "address": "465 An Dương Vương, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7580828,
+  "lng":106.6759996
+ }
+ },
+ {
+ "name": "Bánh Mì Kẹp Kem - Phan Văn Trị",
+ "img": "https://images.foody.vn/res/g11/101876/prof/s576x330/foody-mobile-zs8xbxt7-jpg-901-636232960681952260.jpg",
+ "address": "Xe Bán Dạo, Phan Văn Trị & Huỳnh Mẫn Đạt, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7553792,
+  "lng":106.6765582
+ }
+ },
+ {
+ "name": "Lovi - Sake Lắc - Nguyễn Văn Cừ",
+ "img": "https://images.foody.vn/res/g22/219339/prof/s640x400/foody-mobile-12932684_90060478672-210-636021917809281224.jpg	",
+ "address": "147A Nguyễn Văn Cừ, P. 2, Quận 5, TP. HCM",
+ "type": "Ăn vặt/Vỉa hè",
+ "location":
+ {
+  "lat":10.7575731,
+  "lng":106.6845039
+ }
+ },
+ {
+ "name": "Mỳ 7 Tô - Nguyễn Duy Dương",
+ "img": "https://images.foody.vn/res/g17/169305/prof/s640x400/foody-mobile-3-jpg-724-636320074128519836.jpg",
+ "address": "Lầu 2, 20 Nguyễn Duy Dương, P. 8, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7560276,
+  "lng":106.6719901
+ }
+ },
+ {
+ "name": "Thần Rồng Mì Nhật - Ramen",
+ "img": "https://images.foody.vn/res/g9/84987/prof/s640x400/foody-mobile-10-jpg.jpg",
+ "address": "245 Trần Hưng Đạo, P. 10, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7519448,
+  "lng":106.6635187
+ }
+ },
+ {
+ "name": "Lẩu Nướng Thái Lan Số 7 - Poi Pet",
+ "img": "https://images.foody.vn/res/g5/49710/prof/s640x400/foody-mobile-untitled-1-jpg-314-636207625482110972.jpg",
+ "address": "31/A2 Hùng Vương, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.758416,
+  "lng":106.6708829
+ }
+ },
+ {
+ "name": "Quán Sâm - Mì Vịt Tiềm Sủi Cảo",
+ "img": "https://images.foody.vn/res/g5/44140/prof/s576x330/foody-mobile-foody-mobile-c2-jpg-.jpg",
+ "address": "409/12 Nguyễn Trãi, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7587156,
+  "lng":106.6815391
+ }
+ },
+ {
+ "name": "Trần Quang Ký - Vịt Quay Sốt Tiêu Đen",
+ "img": "https://images.foody.vn/res/g7/67455/prof/s576x330/foody-mobile-tran-quang-ky-mb-jpg-348-635738931856233888.jpg",
+ "address": "390 Trần Phú, P. 7, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7530577,
+  "lng":106.6684993
+ }
+ },
+ {
+ "name": "Lẩu Mắm Quán Vy",
+ "img": "https://images.foody.vn/res/g5/46397/prof/s576x330/foody-mobile-19-1-jpg-858-635537393539011687.jpg",
+ "address": "106 Trần Bình Trọng, P. 1, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7550224,
+  "lng":106.6816449
+ }
+ },
+ {
+ "name": "Quán Cô Út - Bò Né - Lê Hồng Phong",
+ "img": "https://images.foody.vn/res/g20/197017/prof/s640x400/foody-mobile-20107_16008275635158-139-635862898899879082.jpg",
+ "address": "008 Chung Cư Phan Văn Trị, Lê Hồng Phong, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7562878,
+  "lng":106.6778807
+ }
+ },
+ {
+ "name": "Quán Ăn Bảo Anh - Đặc Biệt Gà Ta",
+ "img": "https://images.foody.vn/res/g1/1389/prof/s576x330/foody-mobile-foody-album11921708_-799-635787715625598400.jpg",
+ "address": "131 Trần Phú, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.760215,
+  "lng":106.6768224
+ }
+ },
+ {
+ "name": "BangKy - Mì Cá Viên Cari",
+ "img": "https://images.foody.vn/res/g5/48474/prof/s576x330/foody-mobile-bangky-jpg-186-636130930158456541.jpg",
+ "address": "436 Nguyễn Trãi, P. 7, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7552529,
+  "lng":106.6724005
+ }
+ },
+ {
+ "name": "Bún Đậu Tràng An - Nguyễn Duy Dương",
+ "img": "https://images.foody.vn/res/g17/162950/prof/s576x330/foody-mobile-zdfaoeq7-jpg-246-635941795955865605.jpg",
+ "address": "51 Nguyễn Duy Dương, P. 8, Quận 5, TP. HCM",
+ "type": "Quán ăn",
+ "location":
+ {
+  "lat":10.7562821,
+  "lng":106.6716257
+ }
+ }
 ]}
 
 
@@ -251,7 +537,7 @@
  "name": "",
  "img": "",
  "address": "",
- "type": "Café/Dessert",
+ "type": "Quán ăn",
  "location":
  {
   "lat":,
