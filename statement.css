@@ -1,4 +1,8 @@
-#statement {
+.statement {
   background-color: red;
  }
+
+.col-5 {
+  width: 50%;
+}
  
